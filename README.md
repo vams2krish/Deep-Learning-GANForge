@@ -1,4 +1,4 @@
-# GANForge
+# Deep Learning — GANForge
 
 ![GANForge project overview](docs/ganforge-overview.svg)
 
@@ -11,7 +11,7 @@ The implementations are compact learning adaptations, with small training runs. 
 ## Start here
 
 - [Master notebook](GANForge_Master_Notebook.ipynb): all architectures, shared utilities, and a bonus unified inference hub.
-- [Open in Google Colab](https://colab.research.google.com/github/vams2krish/GANForge/blob/main/GANForge_Master_Notebook.ipynb).
+- [Open in Google Colab](https://colab.research.google.com/github/vams2krish/Deep-Learning-GANForge/blob/main/GANForge_Master_Notebook.ipynb).
 - Choose a standalone tutorial below to study one model independently.
 
 ## Architecture guide
@@ -53,8 +53,8 @@ Start with GAN, cGAN, or AC-GAN. Running every architecture takes substantially 
 Use a Python version supported by your selected PyTorch build. A CUDA-capable GPU is recommended; CPU execution can be slow.
 
 ```bash
-git clone https://github.com/vams2krish/GANForge.git
-cd GANForge
+git clone https://github.com/vams2krish/Deep-Learning-GANForge.git
+cd Deep-Learning-GANForge
 python -m venv .venv
 ```
 
