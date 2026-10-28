@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" rx="24" fill="#0b1020"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="70" y="115" fill="#f8fafc" font-size="64" font-weight="700">GANForge</text>
+<text x="72" y="164" fill="#94a3b8" font-size="25">12 GAN architectures. One hands-on learning workspace.</text>
+<g fill="#161f35"><rect x="70" y="215" width="1140" height="60" rx="12"/><rect x="70" y="293" width="1140" height="60" rx="12"/><rect x="70" y="371" width="1140" height="60" rx="12"/><rect x="70" y="449" width="1140" height="60" rx="12"/></g>
+<g font-size="25"><text x="100" y="254" fill="#818cf8">GAN / cGAN / AC-GAN</text><text x="100" y="332" fill="#22d3ee">Progressive GAN / StyleGAN2 / BigGAN</text><text x="100" y="410" fill="#34d399">StackGAN / CycleGAN / SRGAN / ESRGAN</text><text x="100" y="488" fill="#fbbf24">GANSynth / GameGAN</text></g>
+<text x="72" y="590" fill="#94a3b8" font-size="22">PyTorch | Master notebook + 12 standalone tutorials | Train, inspect, generate</text>
+</g></svg>
